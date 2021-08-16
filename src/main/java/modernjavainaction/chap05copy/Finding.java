@@ -1,10 +1,10 @@
-package main.java.modernjavainaction.chap05;
+package main.java.modernjavainaction.chap05copy;
 
-import static main.java.modernjavainaction.chap04.Dish.menu;
+import main.java.modernjavainaction.chap04.Dish;
 
 import java.util.Optional;
 
-import main.java.modernjavainaction.chap04.Dish;
+import static main.java.modernjavainaction.chap04.Dish.menu;
 
 public class Finding {
 

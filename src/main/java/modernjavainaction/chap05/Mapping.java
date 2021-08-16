@@ -1,12 +1,12 @@
 package main.java.modernjavainaction.chap05;
 
 import static java.util.stream.Collectors.toList;
-import static modernjavainaction.chap04.Dish.menu;
+import static main.java.modernjavainaction.chap04.Dish.menu;
 
 import java.util.Arrays;
 import java.util.List;
 
-import modernjavainaction.chap04.Dish;
+import main.java.modernjavainaction.chap04.Dish;
 
 public class Mapping{
 
